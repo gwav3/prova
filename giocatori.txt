@@ -1,0 +1,4 @@
+Giuseppe;90
+alfio;800
+Gwave;80
+priss;33
