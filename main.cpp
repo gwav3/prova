@@ -19,5 +19,5 @@ int main(){
     fileInput.open("giocatori.txt");
     caricaestampa(&fileInput);
     
-    cout<<"coaeif";
+    
 }
