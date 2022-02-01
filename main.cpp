@@ -14,10 +14,19 @@ void caricaestampa(ifstream *fileInput){
     
 }
 
+
+void moltiplicax2(int k){
+    cout<<"ecco come sarebbe il numero k per 2 ->>>"<<k*2<<endl;
+    return;
+
+}
+
+
 int main(){
    ifstream fileInput;
     fileInput.open("giocatori.txt");
     caricaestampa(&fileInput);
     
+    moltiplicax2(48);
     
 }

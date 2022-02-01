@@ -21,6 +21,8 @@ public:
         return;
     }
 
+    void printnosense(){cout<<"dfjgn";}
+
 };
 
 
